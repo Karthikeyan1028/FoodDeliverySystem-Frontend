@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
-import '../NavBar/NavBar.css'
 import { assets } from '../../assets/assets'
 import { Link, useNavigate } from 'react-router-dom'
 import { useContext } from 'react'
-import { StoreContext } from '../../context/'
+import { StoreContext } from '../../context/StoreContext'
+import '../NavBar/NavBar.css'
 
 const Navbar = ({setShowLogin}) => {
   
