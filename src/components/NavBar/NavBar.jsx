@@ -52,7 +52,7 @@ const Navbar = ({setShowLogin}) => {
         document.getElementById('visual-toggle-button').classList.remove('lightmode');
       }
     });
-  }, []); // Empty dependency array to run the effect only once
+  }, []);
 
   return (
     
