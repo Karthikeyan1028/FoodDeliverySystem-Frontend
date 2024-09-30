@@ -29,3 +29,5 @@ sample credentials for log in purpose
 - **Render Deployment_url:** https://fooddeliverysystem-backend.onrender.com
   
 
+## Frontend URL
+- **Netlify Deployment_url:** https://food-delivery-tomato-p.netlify.app/
