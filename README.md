@@ -27,3 +27,7 @@ sample credentials for log in purpose
 
 ## Backend URL
 - **Render Deployment_url:** https://fooddeliverysystem-backend.onrender.com
+  
+## Screenshots
+![1](src=public/screenshots/screenshot_1.png)
+
