@@ -21,5 +21,9 @@ This is a full-stack food ordering web application built using the MERN stack (M
 
 ## Access credentials
 sample credentials for log in purpose
-email_id: guvi@gmail.com
-password: guvi@2024
+- **email_id:** guvi@gmail.com
+- **password:** guvi@2024
+
+
+## Backend URL
+- **Render Deployment_url:** https://fooddeliverysystem-backend.onrender.com
